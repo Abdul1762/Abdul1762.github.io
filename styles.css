@@ -1,5 +1,5 @@
 body {
-    transition: background-color 0.3s, color 0.3s;
+    transition: background-color 0.5s, color 10s;
     background: url('car1.jpg') no-repeat center center fixed;
     background-size: cover;
 }
@@ -84,4 +84,6 @@ header h1, header  {
 
 p {
     font-size: 22px;
+    font-weight: 500;
+    
 }
