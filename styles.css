@@ -1,5 +1,5 @@
 body {
-    transition: background-color 0.5s, color 10s;
+    transition: background-color 0.5s, color 0.4s;
     background: url('car1.jpg') no-repeat center center fixed;
     background-size: cover;
 }
